@@ -12,15 +12,9 @@
 
 <ul>
   <li> 🔭 I’m currently working on <b>personal project</b> for fun & practice</li>
-  <li> 🎮 I’m currently playing <b>Garry's Mod</b> or <b>Destiny 2</b></li>
-  <li> 🤔 I’m looking for help with <b>C# and lua</b></li>
   <li> 📫 How to reach me: <b>polooaveceuxo@gmail.com</b></li>
 </ul>
 
-<div align="center">
-    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="[https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1]([https://open.spotify.com/user/31jvy7dm3vxvaz23qfwgpei3d7ey](https://open.spotify.com/user/31jvy7dm3vxvaz23qfwgpei3d7ey)"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Polo's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
-</div>
 
 
 <br>
