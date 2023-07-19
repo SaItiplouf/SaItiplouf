@@ -20,19 +20,18 @@
 </div>
 <div align="center">
   <p align = "center">Actually Learning Web Dev at school<br></p>
-  <p align = "center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white" alt="Adobe Creative Cloud" height="30" />    
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white" alt="Apple" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white" alt="OneDrive" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white" alt="SharePoint" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white" alt="Teams" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white" alt="CommandPrompt" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
-  </p>
+<p align="center">
++  <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-2965F1?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="30" />
++  <img style="margin: 5px" src="https://img.shields.io/badge/-Server_Deployment-6DB33F?style=flat-square&logo=serverfault&logoColor=white" alt="Server Deployment" height="30" />
+</p>
   <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
 </div>
 
