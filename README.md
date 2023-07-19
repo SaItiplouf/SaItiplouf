@@ -38,6 +38,9 @@
 <img style="margin: 5px" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" height="30" />
 <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="30" />
 <img style="margin: 5px" src="https://img.shields.io/badge/-Server_Deployment-6DB33F?style=flat-square&logo=serverfault&logoColor=white" alt="Server Deployment" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="30" />
 </p>
   <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
 </div>
