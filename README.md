@@ -1,12 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/58/37/d8/5837d8f2dc6832d0fa2c47ac45d16831.gif" width="800"/>
 </div>
-<h1 align="center">💠 Bonjour 👋💠</h1>
-<div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
-</div>
 
-<br>
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
@@ -61,7 +56,7 @@
   <a href="https://github.com/saitiplouf">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://discord.gg/Saltiplouf#7821" >
+  <a href="https://discord.gg/Saltiplouf" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
