@@ -21,6 +21,11 @@
 <div align="center">
   <p align = "center">Actually Learning Web Dev at school<br></p>
 <p align="center">
+<img style="margin: 5px" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" height="30" />
+<img style="margin: 5px" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET" height="30" />
 <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30" />
 <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-2965F1?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30" />
 <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
