@@ -6,8 +6,8 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
-  <li> 🔭 I’m currently working on <b>personal project</b> & school project for practice</li>
-  <li> 📫 How to reach me: <b>polooaveceuxo@gmail.com</b></li>
+  <li> 🔭 Web Dev Junior</li>
+  <li> 📫 How to reach me: <b>polooavecdeuxo@gmail.com</b></li>
 </ul>
 
 
