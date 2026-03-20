@@ -2,16 +2,6 @@
   <img src="https://i.pinimg.com/originals/58/37/d8/5837d8f2dc6832d0fa2c47ac45d16831.gif" width="800"/>
 </div>
 
-
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-
-<ul>
-  <li> 🔭 Web Dev Junior</li>
-  <li> 📫 How to reach me: <b>polooavecdeuxo@gmail.com</b></li>
-</ul>
-
-
-
 <br>
 
 
